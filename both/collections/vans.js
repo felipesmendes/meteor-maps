@@ -1,0 +1,1 @@
+Vans = new Meteor.Collection('vans');
